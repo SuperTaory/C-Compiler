@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1482339290 source:f:\coding\analyse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482580389 source:f:\codeblocks\analyse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482585298 source:f:\coding\111\analyse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482661085 source:f:\codeblocks\编译原理课设\analyse5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482644360 source:i:\analyse5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482675034 source:f:\codeblocks\编译原理课设\analyse7.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482752260 source:f:\codeblocks\编译原理课设\analyse8.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482766061 source:c:\users\yajia\desktop\analyse9.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482825460 source:c:\users\yajia\desktop\analyse.10\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482926265 source:c:\users\j-tao\desktop\analyse11.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1482943730 source:c:\users\j-tao\desktop\analyse12.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+
+1483065010 source:c:\users\j-tao\desktop\analyse13.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stack>
+

@@ -1,0 +1,15 @@
+int main(int a,float b,char c)
+{
+int e,f;
+c=(e/c-(b+1))*b;
+while(a>b)
+{
+int k,d;
+if((a>1)>(c<d)){c=1;d=!c;return c;}
+else if((a<=1)>(c>=d)){c=1;d=!c;return 1;}
+else{
+if((a&&1)>(c||d)){c=1;d=!c;return 1;}
+else if((a==1)>(c!=d)){c=1;d=!c;return k;}
+else {a=2;}
+}}
+}#
